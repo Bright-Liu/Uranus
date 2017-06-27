@@ -71,3 +71,5 @@ curl  -H 'snctAppKey:ccccccccccccccc' -H 'snctUploadTime:20170621093456123' -F "
 	/data/2017061609/appKey/201706160959300_deviceToken_2.zip
 	/data/2017061610/appKey/201706161000300_deviceToken_3.zip
 	/data/2017061610/appKey/201706161000300_deviceToken_4.zip
+	
+PS:要根据实际网络带宽去做连接数等相关参数调整
